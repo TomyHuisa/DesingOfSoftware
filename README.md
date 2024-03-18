@@ -1,2 +1,2 @@
 # DesingOfSoftware
-## Repository about recipes for practice Git
+Repository about recipes for practice Git 
